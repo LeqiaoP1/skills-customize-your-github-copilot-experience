@@ -65,6 +65,13 @@
       "description": "Build a REST API using FastAPI, request validation, and CRUD endpoints.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-07-15"
+    },
+    {
+      "id": "file-io-json-automation",
+      "title": "File I/O and JSON Automation",
+      "description": "Read and write files in Python, work with JSON data, and automate a data workflow.",
+      "path": "assignments/file-io-json-automation",
+      "dueDate": "2026-08-05"
     }
   ]
 }
