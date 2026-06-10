@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "FastAPI REST API",
+      "description": "Build a REST API using FastAPI, request validation, and CRUD endpoints.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-07-15"
     }
   ]
 }
